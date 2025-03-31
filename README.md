@@ -1,6 +1,6 @@
 # Build a Complete Project Management Dashboard
 
-![Project Screenshot]()
+
 
 ### Installation Steps
 
